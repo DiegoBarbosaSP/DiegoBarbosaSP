@@ -39,7 +39,7 @@ console.log(diegoBarbosa);
 
 ### Areas of Interest:
 
-![React Native](https://img.shields.io/badge/-React_native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![React](https://img.shields.io/badge/-React_native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
 
 
 ### Find me on social media:
