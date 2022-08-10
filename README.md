@@ -37,10 +37,6 @@ console.log(diegoBarbosa);
 ![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
-### Areas of Interest:
-
-![React](https://img.shields.io/badge/-React_native-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-
 
 ### Find me on social media:
 
