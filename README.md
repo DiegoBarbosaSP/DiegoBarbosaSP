@@ -28,7 +28,7 @@ console.log(diegoBarbosa);
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&
+![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)
 
 ### Other Knowledge:
 
