@@ -40,7 +40,7 @@ console.log(diegoBarbosa);
 
 ### Find me on social media:
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Diego_Barbosa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diego-barbosa-b78594249/"><img src="https://img.shields.io/badge/-Diego_Barbosa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:diego8mile@hotmail.com"><img src="https://img.shields.io/badge/diego8mile@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
 
