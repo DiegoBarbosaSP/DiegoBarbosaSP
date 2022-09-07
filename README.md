@@ -33,7 +33,7 @@ console.log(diegoBarbosa);
 ### Other Knowledge:
 
 ![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
