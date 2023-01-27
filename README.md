@@ -18,24 +18,28 @@ console.log(diegoBarbosa);
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-HTML-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-e152aa?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![Java](https://img.shields.io/badge/-Java-e152aa?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
-![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Other Knowledge:
 
-![typescript](https://img.shields.io/badge/-typescript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-e152aa?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-e152aa?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
 
 ### Find me on social media:
