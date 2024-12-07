@@ -3,49 +3,46 @@
 # Hi there, Welcome!
 
 ```SQL
-
-    CREATE TABLE Data_engineer (
-    ano INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE SoftwareEngineer (
+    id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     age INT NOT NULL,
-    work VARCHAR(255) NOT NULL
+    company VARCHAR(255) NOT NULL,
+    primary_language VARCHAR(50) NOT NULL,
+    technologies VARCHAR(255)
 );
 
-INSERT INTO Data_engineer (ano, name, age, work);
-VALUES (2024,'Diego Barbosa', 28, 'data_engineer');
+INSERT INTO SoftwareEngineer (name, age, company, primary_language, technologies)
+VALUES ('Diego Barbosa', 30, '@MercadoLibre', 'Golang', 'Docker, Kubernetes, gRPC');
 
 SELECT *
-FROM Data_engineer;
+FROM SoftwareEngineer;
 ```
 
 ### Main skills:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=dbeaver&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![DBT](https://img.shields.io/badge/dbt-FF652F?style=for-the-badge&logo=dbt&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Airflow](https://img.shields.io/badge/apache_airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
-![DuckDB](https://img.shields.io/badge/DuckDB-FF652F?style=for-the-badge&logo=duckdb&logoColor=white)&nbsp;
-
-
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=nosql&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 ![Dbeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 
 ### Other Knowledge:
 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
-![Dataiku](https://img.shields.io/badge/Dataiku-FF652F?style=for-the-badge&logo=dataiku&logoColor=white)&nbsp;
-![Snowflake](https://img.shields.io/badge/Snowflake-017CEE?style=for-the-badge&logo=snowflake&logoColor=white)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean-architecture&logoColor=white)&nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-FF4500?style=for-the-badge&logo=microservices&logoColor=white)&nbsp;
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-2C3E50?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;
 
 ### Find me on social media:
 
